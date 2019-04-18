@@ -16,6 +16,7 @@ def encrypt(text,s):
     return result
 
 #check the above fuction
+#add what you want to encrypt
 text = str(input('What are you thinking :'))
 s = 5
 print ("Plain Text  : {}" .format(text))
