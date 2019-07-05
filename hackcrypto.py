@@ -1,4 +1,4 @@
-message = input("Add what you want: ") #encmessage
+message = input("Add the encrypted message: ") #encmessage
 LETTERS =  'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz'
 for key in range(len(LETTERS)):
     translated = ''
